@@ -1,15 +1,15 @@
 # Uses the Eclipse Temurin Java 21 image as the base environment for the Docker container.
-FROM eclipse-temurin:21   
+FROM eclipse-temurin:21
 
 WORKDIR /app
 
-COPY HelloWorld.java .
+COPY JavaServer.java .
 
-RUN javac HelloWorld.java
+RUN javac JavaServer.java
 
-CMD ["java", "HelloWorld"]
+EXPOSE 8080
 
-
+CMD ["java", "JavaServer"]
 
 
 # HelloWorld.java
