@@ -6,3 +6,7 @@
 ![alt text](image-12.png)
 
 
+## hello.yml --> kubectl outputs :
+
+
+![alt text](image-13.png)
