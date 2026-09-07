@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- Name: `Your Name Here`
-- Enrollment Number: `Your Enrollment Number Here`
+- Name: `Nandani Kumari`
+- Enrollment Number: `24bcs10317`
 
 ## Task 1: Run Multi-Stage Dockerfile
 
