@@ -65,3 +65,34 @@ Query by Fully Qualified Domain Name (FQDN):
 
 ## Cleanup:
 ![alt text](image-17.png)
+
+
+# ExternalName :
+
+## Run and Deploy :
+![alt text](image-18.png)
+
+##  Verify DNS CNAME Resolution:
+
+![alt text](image-19.png)
+
+## Cleanup :
+![alt text](image-20.png)
+
+
+# Headless Service :
+
+## Run and Deploy
+![alt text](image-21.png)
+
+
+## Check DNS & Traffic on Headless Service:
+
+![alt text](image-22.png)
+![alt text](image-23.png)
+
+
+## Cleanup:
+![alt text](image-24.png)
+
+
